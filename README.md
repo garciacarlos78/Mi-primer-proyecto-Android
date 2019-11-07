@@ -1,5 +1,5 @@
 # Mi-primer-proyecto-Android
-Primer assignment curso Coursera Fundamentos de Android
+Primer assignment curso Coursera Fundamentos de Android 
 https://www.coursera.org/learn/fundamentos
 
 ## Objetivos
